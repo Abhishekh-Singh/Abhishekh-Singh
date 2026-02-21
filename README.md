@@ -3,7 +3,7 @@
 <h3 align="center">Machine Learning | Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://vani.nic.in/vahanBot/images/vani-gif.gif">
 
-- 🔭 I’m currently working in Lifesight Technologies Pvt. Ltd. as a Data Scientist in Marketing Measuremeent Domain.
+- 🔭 I’m currently working in Lifesight Technologies Pvt. Ltd. as a Data Scientist in Marketing Measurement Domain.
 
 - 🌱 I’m currently involved in ** Business Understanding and delivering scalable Analytics solutions to major business companies in vast domains.**
 
