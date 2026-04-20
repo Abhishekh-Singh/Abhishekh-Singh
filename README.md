@@ -1,4 +1,4 @@
-[![MasterHead](https://www.researchgate.net/publication/364284062/figure/fig2/AS:11431281088854264@1665337578249/Machine-Learning-Life-cycle-Schematic-View.jpg)]()
+
 <h1 align="center">Hey, This is Abhishek !</h1>
 <h3 align="center">Machine Learning | Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://vani.nic.in/vahanBot/images/vani-gif.gif">
